@@ -2,3 +2,4 @@ flaptus_data/
 pkg/
 vendor/
 .bundle/
+.DS_STORE
